@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_ataque_player_perto",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ataque_player_perto",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
