@@ -45,7 +45,7 @@ switch(estado)
 			image_index = 0;
 		}
 		
-		
+		//teste
 		//perseguindo o player
 		if (instance_exists(player))
 		{
